@@ -1,0 +1,30 @@
+ node1:
+  image: example-node-kafka
+  net: "host"
+ node2:
+  image: example-node-kafka
+  net: "host"
+ node3:
+  image: example-node-kafka
+  net: "host"
+ node4:
+  image: example-node-kafka
+  net: "host"
+ node5:
+  image: example-node-kafka
+  net: "host"
+ node6:
+  image: example-node-kafka
+  net: "host"
+ node7:
+  image: example-node-kafka
+  net: "host"
+ node8:
+  image: example-node-kafka
+  net: "host"
+ node9:
+  image: example-node-kafka
+  net: "host"
+ node10:
+  image: example-node-kafka
+  net: "host"
